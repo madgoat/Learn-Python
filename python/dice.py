@@ -8,7 +8,7 @@ class Die(object):
 d = Die(6)
 d1 = Die(6)
 d20 = Die(20)
-print "First Die   : ", d.roll()
-print "Second Die  : ", d1.roll()
-print "Your D20 is : ", d20.roll()
+print ("First Die   : ", d.roll())
+print ("Second Die  : ", d1.roll())
+print ("Your D20 is : ", d20.roll())
 
